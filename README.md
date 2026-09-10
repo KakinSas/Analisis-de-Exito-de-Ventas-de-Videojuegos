@@ -98,13 +98,19 @@ Se analizaron diferentes dimensiones del dataset, incluyendo:
 
 Se estudió la cantidad de videojuegos lanzados y las ventas reportadas según el año de lanzamiento.
 
+![Mi foto](images/sales_release_year.png)
+
 #### Géneros
 
 Se compararon los géneros según su cantidad de lanzamientos y volumen de ventas.
 
+![Mi foto](images/genres_year.png)
+
 #### Publishers
 
 Se identificaron los publishers con mayor cantidad de videojuegos y mayores ventas reportadas.
+
+![Mi foto](images/genres_publisher.png)
 
 #### Videojuegos más vendidos
 
@@ -127,7 +133,7 @@ El dashboard permite filtrar los datos utilizando diferentes dimensiones:
 
 #### Vista previa
 
-[imagen]
+![Mi foto](dashboard/dashboard_overview.png)
 
 ### Limitaciones
 
