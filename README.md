@@ -158,7 +158,7 @@ Estas limitaciones deben considerarse al interpretar los resultados.
 * Jupyter Notebook — desarrollo del análisis
 
 ### Estructura del proyecto
-
+```Directorios
 │   README.md
 │   requirements.txt
 │
@@ -187,7 +187,7 @@ Estas limitaciones deben considerarse al interpretar los resultados.
 └───notebooks
         eda_vg_sales.ipynb
         limpieza_grande.ipynb
-
+```
 ### Fuentes y créditos
 
 #### Datos
@@ -212,8 +212,8 @@ Diego Sáez V.
 
 Intereses: Data Analysis · Data Science · Machine Learning · Data Engineering
 
-GitHub
-LinkedIn
+[GitHub](https://github.com/KakinSas)
+[LinkedIn](https://www.linkedin.com/in/diego-s%C3%A1ez-valencia-54b4ba312/)
 
 ### Licencia
 
